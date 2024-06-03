@@ -46,7 +46,8 @@ npm run dev  # or npm run prod for production build
 Make sure your `.env` file is set up correctly, particularly for database connections and any API keys needed for Google Sheets integration.
 
 #### Step 4: Run Migrations
-```bashphp artisan migrate
+```bash
+php artisan migrate
 ```
 
 #### Step 5: Start the Laravel Development Server
